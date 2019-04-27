@@ -8,7 +8,7 @@
  8  8   8              '''        '''      ''    8b
  8  8, ,8         ,aaaaaaaaaaaaaaaaaaaaaaaaddddd88P
  8  `'''       ,d8'
- Yb,         ,ad8'    @Brilly - @indosec.id - Encrypt File
+ Yb,         ,ad8'    @Brilly && Fauzan - @indosec.id - Encrypt File
   'Y8888888888P'
 	";
 	
